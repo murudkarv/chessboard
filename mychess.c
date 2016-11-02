@@ -329,6 +329,8 @@ int main(){
 				}
 			}//end move
 		}//end infinite for
+	getch();
+	closegraph();
 	return 0;
 	}//end main
 void showboard(){
